@@ -35,7 +35,7 @@ body {
 }
 
 a {
-    color: rgb(255, 255, 255);
+    color: rgb(2, 255, 255);
     text-decoration: none;
 }
 
@@ -43,5 +43,7 @@ a {
     background-color: rgb(255, 255, 255);
     text-align: center;
     height: 95vh;
-    
+    color:  rgb(243, 157, 157);
+    font-size: 30px;  
+      
 }
